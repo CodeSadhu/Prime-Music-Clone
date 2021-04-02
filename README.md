@@ -6,8 +6,8 @@ A UI clone of the popular music streaming app - Amazon Prime Music
 
 ## Home Page
 
-![screenshot-1](https://github.com/CodeSadhu/Prime-Music-Clone/tree/master/screenshots/screenshot-1.png)
+<img src="screenshots/screenshot-1.png" width=800 /> ![](screenshots/screenshot-1.png)
 
 ## Find/Search Page
 
-![screenshot-1](https://github.com/CodeSadhu/Prime-Music-Clone/tree/master/screenshots/screenshot-2.png)
+<img src="screenshots/screenshot-2.png" width=800 /> ![](screenshots/screenshot-2.png)
